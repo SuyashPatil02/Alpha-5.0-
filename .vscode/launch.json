@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "DSAJAVA_5a074115"
+        },
+        {
+            "type": "java",
+            "name": "loopBasic",
+            "request": "launch",
+            "mainClass": "loopBasic",
+            "projectName": "DSAJAVA_5a074115"
+        },
+        {
+            "type": "java",
+            "name": "IncomeTax",
+            "request": "launch",
+            "mainClass": "IncomeTax",
+            "projectName": "DSAJAVA_5a074115"
+        },
+        {
+            "type": "java",
+            "name": "orchid",
+            "request": "launch",
+            "mainClass": "orchid",
+            "projectName": "DSAJAVA_5a074115"
+        },
+        {
+            "type": "java",
+            "name": "JavaBasic",
+            "request": "launch",
+            "mainClass": "JavaBasic",
+            "projectName": "DSAJAVA_5a074115"
+        }
+    ]
+}
