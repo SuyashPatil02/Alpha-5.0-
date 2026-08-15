@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MADLIBSGAME",
+            "request": "launch",
+            "mainClass": "MADLIBSGAME",
+            "projectName": "DSAJAVA_b58827ae"
+        },
+        {
+            "type": "java",
             "name": "Pattern",
             "request": "launch",
             "mainClass": "Pattern",
