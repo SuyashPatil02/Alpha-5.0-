@@ -13,7 +13,7 @@ public static void main(String[] args) {
 
    System.out.println("Enter an adjective (description):");
    adjective1 = sc.nextLine();
-   System.out.println("Enter an nonu (animal or person):");
+   System.out.println("Enter an noun1 (animal or person):");
    noun1 = sc.nextLine();
    System.out.println("Enter an adjective (description):");
    adjective2 = sc.nextLine();
